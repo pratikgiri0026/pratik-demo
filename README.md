@@ -1,4 +1,4 @@
-# Pratik-demo
-this is my first git repository.
+# Pratik-Demo
+This is my first git repository.
 <br>
 Author - Pratik Giri
